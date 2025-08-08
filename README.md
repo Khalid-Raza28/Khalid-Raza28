@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khalid-Raza
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...MAIL
 - 😄 Pronouns: ...HE/HIM
